@@ -249,7 +249,7 @@ The project can be run as a stepwise pipeline:
 
 If you use this repository or workflow in your research, please cite the associated study:
 
-> Machine Learning–Based Cardiovascular Risk Classification Using Multivariate Carotid Hemodynamic Time-Series Data.
+> Machine Learning-Based Cardiovascular Disease Risk Classification Using Dynamic Time-Series Features from Carotid Duplex Sonography
 
 ## License
 
