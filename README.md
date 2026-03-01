@@ -34,8 +34,7 @@ By combining advanced time-series feature extraction (TSFEL and shapelet transfo
 
 ```plaintext
 ├── data/
-│   ├── raw/                        # Raw ultrasound-derived waveform data
-│   ├── processed/                  # Preprocessed, filtered, and synchronized signals
+│   ├── raw and processed data/                        # Raw ultrasound-derived waveform data first 4 columns (time,Brachial Data, Carotid diameter and blood velocity)...Preprocessed and synchronized, low-pass filtered, and normalized signals('Normalized Brachial', 'NormalizedFiltered Diameter' and 'Normalized Velocity')
 │
 ├── notebooks/
 │   ├── 01_preprocessing.ipynb      # Signal cleaning and ECG-based alignment
